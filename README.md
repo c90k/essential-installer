@@ -34,7 +34,7 @@ Setting up a fresh Windows installation or troubleshooting missing runtime error
 ## Installation
 
 1. Go to the **[Releases](../../releases/latest)** section.
-2. Download the latest `Essential-Installer-vX.X.X.zip` (or `.exe`).
+2. Download the latest `Essential-Installer-vX.X.X.zip`
 3. Extract the contents if downloaded as an archive.
 4. Right-click the installer executable and choose **Run as administrator**.
 5. Follow the on-screen prompts (or let it complete automatically if running in silent mode).
